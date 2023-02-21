@@ -1,3 +1,4 @@
 hello this is me practicing what i learned about the odin project 
 trying to seee brach 2 
 trying to understand git commit messages
+now trying to write the commit with a massage 
